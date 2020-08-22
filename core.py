@@ -47,17 +47,7 @@ bot.polling()
 
     
 
-# # keyBoard1 = telebot.types.ReplyKeyboardMarkup(True, True)
-# # keyBoard1.row('Краснодар', 'Ростов')
 
-
-
-
-
-
-
-#     # elif message.text == 'Ростов':
-#     #     bot.send_message(message.chat.id, 'Прощай, создатель', reply_markup=keyBoard1)
 
 
 
